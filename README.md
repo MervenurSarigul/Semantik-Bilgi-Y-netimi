@@ -1,1 +1,1 @@
-# Semantik-Bilgi-Y-netimi
+# Semantik-Bilgi-Yonetimi
