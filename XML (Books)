@@ -1,0 +1,55 @@
+<CATALOG>
+  <BOOK>
+    <TITLE>The Little Prince</BASLIK>
+    <WRITER>Antoine de Saint-Exupery</WRITER>
+    <LANGUAGE>English</LANGUAGE>
+    <PUBLISHER>Mariner Books</PUBLISHER>
+    <PRICE>10.99</PRICE>
+    <YEAR>2000</YEAR>
+    <ISBN>0156012197</YEAR>
+    <PAGES>96</PAGES>
+  </BOOK>
+    
+  <BOOK>
+    <TITLE>The Alchemist</BASLIK>
+    <WRITER>Paulo Coelho</WRITER>
+    <LANGUAGE>English</LANGUAGE>
+    <PUBLISHER>HarperTorch</PUBLISHER>
+    <PRICE>29.99</PRICE>
+    <YEAR>2006</YEAR>
+    <ISBN>0061233846</YEAR>
+  </BOOK>
+    
+  <BOOK>
+    <TITLE>Circe</BASLIK>
+    <WRITER>Madeline Miller</WRITER>
+    <LANGUAGE>English</LANGUAGE>
+    <PUBLISHER>Back Bay Books</PUBLISHER>
+    <PRICE>10.55</PRICE>
+    <YEAR>2020</YEAR>
+    <ISBN>0316556327</YEAR>
+    <PAGES>416</PAGES>
+  </BOOK>
+    
+  <BOOK>
+    <TITLE>Fahrenheit 451</BASLIK>
+    <WRITER>Ray Bradbury</WRITER>
+    <LANGUAGE>English</LANGUAGE>
+    <PUBLISHER>Simon & Schuster</PUBLISHER>
+    <PRICE>12.99</PRICE>
+    <YEAR>2012</YEAR>
+    <ISBN>9781451673319</YEAR>
+    <PAGES>249</PAGES>
+  </BOOK>
+    
+  <BOOK>
+    <TITLE>The Time Machine</BASLIK>
+    <WRITER>H. G. Wells</WRITER>
+    <LANGUAGE>English</LANGUAGE>
+    <PUBLISHER>Royal Classics</PUBLISHER>
+    <PRICE>39.95</PRICE>
+    <YEAR>2021</YEAR>
+    <ISBN>177476119X</YEAR>
+    <PAGES>100</PAGES>
+  </BOOK>
+</CATALOG>

@@ -1,1 +1,0 @@
-# Semantik-Bilgi-Yonetimi
